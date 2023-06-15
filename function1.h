@@ -5,6 +5,7 @@
 #ifndef CSCE1101_ASSIGNMENT1_FUNCTION1_H
 #define CSCE1101_ASSIGNMENT1_FUNCTION1_H
 
+#define N 8
 
 void printBoard(int board[N][N]);
 
